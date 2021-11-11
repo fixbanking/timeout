@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gin-contrib/timeout"
-	"github.com/gin-gonic/gin"
+	"github.com/fixbanking/gin"
+	"github.com/fixbanking/timeout"
 )
 
 func emptySuccessResponse(c *gin.Context) {

@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/gin-contrib/timeout"
-	"github.com/gin-gonic/gin"
+	"github.com/fixbanking/gin"
 )
 
 func emptySuccessResponse(c *gin.Context) {

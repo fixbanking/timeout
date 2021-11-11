@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/fixbanking/gin"
 )
 
 // Option for timeout

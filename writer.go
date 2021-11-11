@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/gin-gonic/gin"
+	"github.com/fixbanking/gin"
 )
 
 // Writer is a writer with memory buffer

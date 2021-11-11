@@ -3,7 +3,7 @@ package timeout
 import (
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/fixbanking/gin"
 )
 
 var bufPool *BufferPool
